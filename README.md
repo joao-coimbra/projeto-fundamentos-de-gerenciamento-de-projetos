@@ -1,7 +1,6 @@
 # ClarityAI — Do Problema ao Produto
 
 > Trabalho Final — Fundamentos de Gerenciamento de Projetos · UniFECAF  
-> Disciplina ministrada por Paulo Lisboa
 
 ---
 
@@ -26,12 +25,9 @@ clarityai/
 │   ├── 1.5 Gerenciamento de Riscos
 │   └── 1.6 Gestão de Produtos com IA
 │
-├── lean-canvas.html          # Canvas de Visão de Produto (visual)
-├── documento-mvp.md          # Documento de MVP com tabelas e critérios
-├── roadmap.html              # Roadmap visual com 3 fases
-├── matriz-riscos.html        # Matriz de Riscos com heatmap visual
+├── MVP-Clarity.md          # Documento de MVP com tabelas e critérios
+├── matriz-riscos.pdf        # Matriz de Riscos com heatmap visual
 │
-├── roteiro-pitch.md          # Roteiro completo do vídeo pitch
 └── README.md                 # Este arquivo
 ```
 
@@ -42,20 +38,11 @@ clarityai/
 ### `parte-teorica.md`
 Documento principal da entrega teórica. Leia na ordem: a visão de produto estabelece o norte, o MVP define o ponto de partida, o roadmap mostra o caminho, e o gerenciamento de riscos identifica as ameaças ao longo da jornada.
 
-### `lean-canvas.html`
-Abra em qualquer navegador. Representa a visão do produto no formato Lean Canvas, adaptado para produto digital com IA. Os 9 blocos mostram: problema, solução, proposta de valor, vantagem competitiva, segmentos, canais, métricas-chave, custos e receita.
-
-### `documento-mvp.md`
+### `MVP-Clarity.md`
 Documento operacional do MVP. Usa a priorização MoSCoW (Must/Should/Could/Won't) combinada com a matriz Value vs Effort. A seção de critérios de aceitação é o contrato de qualidade do MVP — se não bater as metas, o produto precisa ser repivotado.
 
-### `roadmap.html`
-Abra em qualquer navegador. Roadmap visual orientado por outcomes (resultados), não por features. Cada fase tem um objetivo claro de negócio e métricas de sucesso definidas. Leia as fases como hipóteses a serem validadas, não como entregas garantidas.
-
-### `matriz-riscos.html`
+### `matriz-riscos.pdf`
 Abra em qualquer navegador. Contém duas visualizações: (1) mapa de calor Probabilidade × Impacto com posicionamento dos riscos identificados, e (2) tabela detalhada com plano de mitigação e responsável para cada risco.
-
-### `roteiro-pitch.md`
-Script completo do vídeo pitch de 4 minutos. Cada seção tem tempo estimado. As falas estão entre aspas — use como base e adapte para seu estilo natural.
 
 ---
 
